@@ -1,4 +1,7 @@
 #!/bin/bash
+##########################
+# script to check Image registry Pods.
+##########################
 set -e
 
 # Getting image registry storage type
